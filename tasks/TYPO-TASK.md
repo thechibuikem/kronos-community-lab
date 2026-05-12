@@ -3,7 +3,7 @@
 Fix the typo in line 12.
 
 Current:
-"GitHub"
+"Gitub"
 
 Expected:
 "GitHub"
